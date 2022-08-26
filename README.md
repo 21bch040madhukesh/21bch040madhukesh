@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhukesh Singh</h1>
 <h3 align="center">A passionate programmer from India</h3>
-
+<h3> About Me</h3>
+<p>I am a curious and determined person who is always looking for opportunities to learn new technology.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=21bch040madhukesh&label=Profile%20views&color=0e75b6&style=flat" alt="21bch040madhukesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=21bch040madhukesh" alt="21bch040madhukesh" /></a> </p>
