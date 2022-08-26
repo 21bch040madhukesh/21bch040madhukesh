@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhukesh Singh</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<h3> About Me</h3>
+<h3>About Me</h3>
 <p>I am a curious and determined person who is always looking for opportunities to learn new technology.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=21bch040madhukesh&label=Profile%20views&color=0e75b6&style=flat" alt="21bch040madhukesh" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django, MongoDB, Node,react**
 
-- 💬 Ask me about **Python, Cpp**
+- 💬 Ask me about **Python, C++**
 
 - 📫 How to reach me **madhukeshsingh87205@gmail.com**
 
@@ -18,7 +18,7 @@
 <a href="https://fb.com/madhukeshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhukeshsingh" height="30" width="40" /></a>
 <a href="https://instagram.com/madhukesh_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhukesh_singh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/madhukesh_2609" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="madhukesh_2609" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/madhukesh kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madhukesh kumar singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/madhukeshsingh81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madhukesh kumar singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
