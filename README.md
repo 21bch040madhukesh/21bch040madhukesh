@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhukeshsingh" alt="madhukeshsingh" /></a> </p>
 
-- 🌱 I’m currently learning **Django, MongoDB, Node,react**
+- 🌱 I’m currently learning **Django, MongoDB, Node, React**
 
 - 💬 Ask me about **Python, Cpp**
 
