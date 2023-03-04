@@ -6,11 +6,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhukeshsingh" alt="madhukeshsingh" /></a> </p>
 
-- 🌱 I’m currently learning **Django, MongoDB, Node, React**
+- 🌱 I’m currently learning **Django, React**
 
-- 💬 Ask me about **Python, Cpp**
+- 💬 Ask me about **Python, Cpp, Problem Solving**
 
 - 📫 How to reach me **madhukeshsingh87205@gmail.com**
+
+<p align="center">
+  <img src="https://unsplash.com/photos/Im7lZjxeLhg" width="350" title="hover text">
+  <img src="" width="350" alt="accessibility text">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
