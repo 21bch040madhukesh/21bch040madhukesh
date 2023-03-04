@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/madhukeshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhukeshsingh" height="30" width="40" /></a>
 <a href="https://fb.com/madhukeshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhukeshsingh" height="30" width="40" /></a>
 <a href="https://instagram.com/madhukesh_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhukesh_singh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/madhukesh_2609" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="madhukesh_2609" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/madhukeshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhukeshsingh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/madhukeshsingh81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madhukeshsingh81" height="30" width="40" /></a>
 </p>
 
